@@ -1,2 +1,3 @@
 hr resolusi
 - Belajar Java tiap pagi
+- Test
